@@ -1,4 +1,4 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **ElonJask**.
+<img src='./images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **ElonJask**.
 
 **Recent Posts**
 
